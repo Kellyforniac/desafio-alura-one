@@ -40,7 +40,7 @@ Por exemplo:
 "caichoberrrober" => "cachorro"
 
 
-Página GitHub: https://github.com/Kellyforniac/challenge-alura/
-Página LinkeDin: https://www.linkedin.com/in/teacherkellyferrari/
-Página Vercel: https://challenge-alura-kappa-azure.vercel.app/ (projeto deploy)
+Página GitHub: https://github.com/Kellyforniac/challenge-alura/ <br>
+Página LinkeDin: https://www.linkedin.com/in/teacherkellyferrari/ <br>
+Página Vercel: https://challenge-alura-kappa-azure.vercel.app/ (projeto deploy) <br>
 
