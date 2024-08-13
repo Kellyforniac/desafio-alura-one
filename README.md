@@ -7,8 +7,9 @@ Sobre o Projeto:
 
 
 Captura de tela como exemplo de exibição em:
-
+<p align="center">
      <img align="center" width="800" heigth="800" src="https://raw.githubusercontent.com/Kellyforniac/challenge_alura/main/img/Captura-tela-projeto.png">
+</p>
 
 
 O objetivo do jogo:<br>
