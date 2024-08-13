@@ -35,9 +35,9 @@ Requisitos:
 2. Não devem ser utilizados letras com acentos nem caracteres especiais, como: ponto, ponto e vírgula, vírgula, hastag, arroba, traços.
 3. Pode converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
-Por exemplo:
-"cachorro" => "caichoberrrober"
-"caichoberrrober" => "cachorro"
+Por exemplo: <br>
+"cachorro" => "caichoberrrober" <br>
+"caichoberrrober" => "cachorro" <br>
 
 
 Página GitHub: https://github.com/Kellyforniac/challenge-alura/ <br>
