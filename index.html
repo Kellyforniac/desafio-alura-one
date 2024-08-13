@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge Decodificador</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/tags.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsivo.css">
+</head>
+
+<body>
+
+    <main class="container">
+        <section class="apresentacao__conteudo">
+            <img class="logo-alura" src="img/logo-alura.svg" alt="Logotipo Alura">
+            <form>
+                <textarea id="texto-principal" type="text" placeholder="Digite seu texto"></textarea>
+                <div>
+                    <div class="alerta">
+                        <img src="img/warning.svg">
+                        <span>Apenas letras minúsculas e sem acento.</span>
+                    </div>
+                    <div class="botoes">
+                        <button class="bt-cripto apresentacao__botao__cripto" id="criptografar">Criptografar.</button>
+                        <button class="bt-descripto apresentacao__botao__descripto" id="descriptografar">Descriptografar.</button>
+                    </div>
+                </div>
+            </form>
+        </section>
+        <div class="apresentacao__criptografia">
+            <div class="sem-retorno">
+                <img src="img/looking.svg" id="mensagem-nao-encontrada" alt="Nenhuma mensagem encontrada">
+                <h3 class="titulo-sem-retorno">Nenhuma mensagem encontrada.</h3>
+                <p>Digite um texto ou palavra que você deseja criptografar ou descriptografar.</p>
+            </div>
+            <div class="texto-criptografado d-none">
+                <p></p>
+                <button class="bt-copiar apresentacao__botao__copiar" id="copiar" onclick="copiarTexto()">Copiar.</button>
+            </div>
+        </div>
+
+    </main>
+
+    <footer>
+
+        <p>&copy; Desenvolvido por Kelly Ferrari - <a id="data"></a></p>
+    </footer>
+    
+
+    <script src="js/criptografa-e-descriptografa.js"></script>
+    <script src="js/criptografo.js"></script>
+    <script src="js/copiar.js"></script>
+    <script src="js/text-area.js"></script>
+</body>
+
+</html>
