@@ -6,8 +6,7 @@ Sobre o Projeto:
 - Criptografia e Descriptografia de textos e palavras com uso do HTML, CSS.
 
 
-Captura de tela como exemplo de exibição em:"https://github.com/Kellyforniac/challenge_alura/blob/main/img/Captura-tela-projeto.png"
-
+Captura de tela como exemplo de exibição em:"https://github.com/Kellyforniac/challenge_alura/blob/main/img/Captura-tela-projeto.png?raw=true"
 
 O objetivo do jogo:
 O objetivo do jogo é poder trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
