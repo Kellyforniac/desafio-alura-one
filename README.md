@@ -8,11 +8,11 @@ Sobre o Projeto:
 
 Captura de tela como exemplo de exibição em:"https://github.com/Kellyforniac/challenge_alura/blob/main/img/Captura-tela-projeto.png?raw=true"
 
-O objetivo do jogo:
+O objetivo do jogo:<br>
 O objetivo do jogo é poder trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 
-Chaves para Criptografia utizadas são:
+Chaves para Criptografia utizadas são:<br>
 As "chaves" de criptografia utilizadas são:<br>
 - A letra "e" é convertida para "enter"<br>
 - A letra "i" é convertida para "imes"<br>
@@ -20,7 +20,7 @@ As "chaves" de criptografia utilizadas são:<br>
 - A letra "o" é convertida para "ober"<br>
 - A letra "u" é convertida para "ufat"<br>
 
-Como jogar:
+Como jogar:<br>
 1. Digite um texto ou uma palavra em "Digite seu texto";
 2. Clique em "Criptografar"
 (A palavra ou frase aparecerá no quadro à direita);
